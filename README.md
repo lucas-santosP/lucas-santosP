@@ -16,5 +16,7 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-[![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-santosP)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-santosP&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img  height="180em" style="margin-right:1rem" src="https://github-readme-stats.vercel.app/api?username=lucas-santosP"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-santosP&layout=compact"/>
+</div>
