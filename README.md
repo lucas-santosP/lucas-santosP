@@ -17,6 +17,6 @@
 ![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 <div>
-  <img  height="180em" style="margin-right:1rem" src="https://github-readme-stats.vercel.app/api?username=lucas-santosP"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-santosP"/>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-santosP&layout=compact"/>
 </div>
