@@ -1,8 +1,7 @@
 ### Hi there, I'm Lucas 👋
 
-- 🔭 I’m currently working on a personal project of a [task manager](https://github.com/lucas-santosP/task-manager-frontend).
+- 🔭 I’m currently working on a personal project of a [task manager](https://github.com/lucas-santosP/task-manager-frontend) and finishing my college.
 - 🌱 I’m currently learning Typescript in use with React, and Vue 3.
-- 📫 You can to reach me on lucaspolicarpo.2018@gmail.com
 
 ### My skills ⚡
 
