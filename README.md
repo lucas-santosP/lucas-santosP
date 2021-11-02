@@ -20,9 +20,12 @@
 ![](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 
 <!--- stats on: https://github.com/anuraghazra/github-readme-stats -->
-<div style="display: inline_block">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-santosP&show_icons=true&layout=compact&custom_title=Github Stats&count_private=true" />
-  <img height="180em" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-santosP&layout=compact&count_private=true"/>
+
+<div>
+  <div style="display: inline_block">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-santosP&show_icons=true&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-santosP&layout=compact&langs_count=7"/>
+   </div>
 </div>
 
 ### Stay in touch
