@@ -1,6 +1,6 @@
 ### Hi there, I'm Lucas 👋
 
-- 🔭 I’m currently finishing my college.
+- 🔭 I've been working for the last 3 years in web applications projects and finishing my college.
 - 🌱 I’m currently learning Typescript in use with React, and Vue 3.
 
 ### My skills ⚡
