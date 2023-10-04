@@ -1,7 +1,7 @@
 ### Hi there, I'm Lucas 👋
 
 - 🔭 I've been working for the last 4 years in web applications projects and finishing my college.
-- 🌱 I’m currently learning more about Typescript and tests in use with React and Vue.
+- 🌱 Always learning more about the Web.
 
 ### My skills ⚡
 
