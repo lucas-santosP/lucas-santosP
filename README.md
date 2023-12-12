@@ -1,7 +1,7 @@
 ### Hi there, I'm Lucas 👋
 
-- 🔭 I've been working for the last 4 years in web applications projects and finishing my college.
-- 🌱 Always learning more about the Web.
+- 🔭 I've been working in web applications projects and finishing my college.
+- 🌱 Always learning more about the web.
 
 ### My skills ⚡
 
