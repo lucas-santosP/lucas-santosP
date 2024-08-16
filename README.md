@@ -7,7 +7,7 @@
 
 <!--- icons on: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
-![](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/Vue-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
 ![](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -29,8 +29,5 @@
 
 ### Stay in touch
 <a href="https://www.linkedin.com/in/lucas-s-policarpo" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:lucaspolicarpo.2018@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
 </a>
